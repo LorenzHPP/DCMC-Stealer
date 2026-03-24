@@ -1,7 +1,13 @@
 # DCMC-Stealer
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+<!-- MARKDOWN LINKS -->
+[forks-shield]: https://img.shields.io/github/forks/LorenzHPP/DCMC-Stealer?style=for-the-badge
+[forks-url]: https://github.com/LorenzHPP/DCMC-Stealer/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/LorenzHPP/DCMC-Stealer?style=for-the-badge
+[stars-url]: https://github.com/LorenzHPP/DCMC-Stealer/stargazers
+
+[issues-shield]: https://img.shields.io/github/issues/LorenzHPP/DCMC-Stealer?style=for-the-badge
+[issues-url]: https://github.com/LorenzHPP/DCMC-Stealer/issues
 
 ## ⚠️ Disclaimer
 This project is intended for educational and security research purposes only. Using this tool on accounts without the explicit permission of the owner is illegal and unethical. The author assumes no responsibility for any misuse of this software.
