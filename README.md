@@ -1,5 +1,7 @@
 # DCMC-Stealer
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/LorenzHPP/DCMC-Stealer)
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
 ## ⚠️ Disclaimer
 This project is intended for educational and security research purposes only. Using this tool on accounts without the explicit permission of the owner is illegal and unethical. The author assumes no responsibility for any misuse of this software.
