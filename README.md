@@ -1,13 +1,35 @@
-# DCMC-Stealer
-<!-- MARKDOWN LINKS -->
-[forks-shield]: https://img.shields.io/github/forks/LorenzHPP/DCMC-Stealer?style=for-the-badge
-[forks-url]: https://github.com/LorenzHPP/DCMC-Stealer/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/LorenzHPP/DCMC-Stealer?style=for-the-badge
-[stars-url]: https://github.com/LorenzHPP/DCMC-Stealer/stargazers
+<p align="center">
 
-[issues-shield]: https://img.shields.io/github/issues/LorenzHPP/DCMC-Stealer?style=for-the-badge
-[issues-url]: https://github.com/LorenzHPP/DCMC-Stealer/issues
+<img src="https://img.icons8.com/fluency/96/discord-logo.png" width="80" height="80" />
+
+<h2 align="center">DCMC Stealer</h2>
+<p align="center">A Discord Bot that steals Accounts</p>
+
+<br/>
+
+<a href="https://github.com/LorenzHPP/DCMC-Stealer/network/members">
+  <img src="https://img.shields.io/github/forks/LorenzHPP/DCMC-Stealer?style=for-the-badge" />
+</a>
+<a href="https://github.com/LorenzHPP/DCMC-Stealer/stargazers">
+  <img src="https://img.shields.io/github/stars/LorenzHPP/DCMC-Stealer?style=for-the-badge" />
+</a>
+<a href="https://github.com/LorenzHPP/DCMC-Stealer/issues">
+  <img src="https://img.shields.io/github/issues/LorenzHPP/DCMC-Stealer?style=for-the-badge" />
+</a>
+<br/>
+
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python" />
+</a>
+<a href="https://discordpy.readthedocs.io/">
+  <img src="https://img.shields.io/badge/discord.py-latest-blue?style=for-the-badge&logo=discord" />
+</a>
+<a href="https://discord.com/">
+  <img src="https://img.shields.io/badge/Platform-Discord-5865F2?style=for-the-badge&logo=discord" />
+</a>
+
+</p>
 
 ## ⚠️ Disclaimer
 This project is intended for educational and security research purposes only. Using this tool on accounts without the explicit permission of the owner is illegal and unethical. The author assumes no responsibility for any misuse of this software.
