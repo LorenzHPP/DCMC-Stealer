@@ -1,12 +1,12 @@
 {
     "owners": [
-        Your_discord_id
+        "Your_discord_id"
     ],
     "tokens": {
         "bot_token": "Your_token_here"
     },
     "discord": {
-        "accounts_channel": 
+        "accounts_channel": ""
     },
     "autosecure": {
         "replace_main_alias": true
